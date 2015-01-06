@@ -12,13 +12,11 @@ This theme modified conspicuous from sublime-railscasts-extended. especially for
 
 # Special thanks
 
-# Copyright
+# Copyright and License
 
-Copyright (c) 2015 t4traw
-Copyright (c) 2014 Jev Zelenkov 
-Copyright (c) 2008 Ryan Bates
-
-# License
+- Copyright (c) 2015 t4traw
+- Copyright (c) 2014 Jev Zelenkov 
+- Copyright (c) 2008 Ryan Bates
 
 ## The MIT License (MIT)
 
