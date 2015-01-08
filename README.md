@@ -1,24 +1,28 @@
-# Railscasts exModified
+# Railscasts Modified
 
 This theme modified conspicuous from sublime-railscasts-extended. especially for html source and erb source.
 
 # Examples
 
 __erb__
+
 ![](https://raw.githubusercontent.com/t4traw/sublime-railscasts-modified/master/image/erb.gif)
 
 __ruby__
+
 ![](https://raw.githubusercontent.com/t4traw/sublime-railscasts-modified/master/image/rb.gif)
 
 __sass__
+
 ![](https://raw.githubusercontent.com/t4traw/sublime-railscasts-modified/master/image/scss.gif)
 
 __markdown__
+
 ![](https://raw.githubusercontent.com/t4traw/sublime-railscasts-modified/master/image/md.gif)
 
 # Installation
 
-1. Go to 'Preferences -> Browse Packages', and then either [DOWNLOAD](https://github.com/t4traw/sublime-railscasts-modified/archive/master.zip) and unzip this plugin into that directory
+1. Go to 'Preferences -> Browse Packages', and then either download and unzip this plugin into that directory
 2. 'Preferences -> Color Scheme -> sublime-railscasts-modified'
 
 # Copyright and License
