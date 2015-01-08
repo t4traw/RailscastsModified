@@ -4,20 +4,16 @@ This theme modified conspicuous from sublime-railscasts-extended. especially for
 
 # Examples
 
-## Markdown
-
+__erb__
 ![](https://raw.githubusercontent.com/t4traw/sublime-railscasts-modified/master/image/erb.gif)
 
-## Ruby
-
+__ruby__
 ![](https://raw.githubusercontent.com/t4traw/sublime-railscasts-modified/master/image/rb.gif)
 
-## Sass
-
+__sass__
 ![](https://raw.githubusercontent.com/t4traw/sublime-railscasts-modified/master/image/scss.gif)
 
-## ERb
-
+__markdown__
 ![](https://raw.githubusercontent.com/t4traw/sublime-railscasts-modified/master/image/md.gif)
 
 # Installation
