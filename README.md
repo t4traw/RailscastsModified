@@ -9,13 +9,13 @@ This theme modified conspicuous from sublime-railscasts-extended. especially for
 
 # Examples
 
-![](https://raw.githubusercontent.com/t4traw/sublime-railscasts-modified/master/image/erb.gif)
+![](https://raw.githubusercontent.com/t4traw/sublime-railscasts-modified/master/images/erb.gif)
 
-![](https://raw.githubusercontent.com/t4traw/sublime-railscasts-modified/master/image/rb.gif)
+![](https://raw.githubusercontent.com/t4traw/sublime-railscasts-modified/master/images/rb.gif)
 
-![](https://raw.githubusercontent.com/t4traw/sublime-railscasts-modified/master/image/scss.gif)
+![](https://raw.githubusercontent.com/t4traw/sublime-railscasts-modified/master/images/scss.gif)
 
-![](https://raw.githubusercontent.com/t4traw/sublime-railscasts-modified/master/image/md.gif)
+![](https://raw.githubusercontent.com/t4traw/sublime-railscasts-modified/master/images/md.gif)
 
 # Copyright and License
 
