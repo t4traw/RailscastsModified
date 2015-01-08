@@ -1,29 +1,29 @@
-# RailscastsModified
+# Railscasts exModified
 
 This theme modified conspicuous from sublime-railscasts-extended. especially for html source and erb source.
 
 # Examples
 
+## Markdown
+
+![](https://raw.githubusercontent.com/t4traw/sublime-railscasts-modified/master/image/erb.gif)
+
+## Ruby
+
+![](https://raw.githubusercontent.com/t4traw/sublime-railscasts-modified/master/image/rb.gif)
+
+## Sass
+
+![](https://raw.githubusercontent.com/t4traw/sublime-railscasts-modified/master/image/scss.gif)
+
+## ERb
+
+![](https://raw.githubusercontent.com/t4traw/sublime-railscasts-modified/master/image/md.gif)
+
 # Installation
 
-## Manual Installation
-
-1. [Download](https://github.com/t4traw/RailscastsModified/archive/master.zip) and unzip this plugin
-2. Go to 'Preferences -> Browse Packages' and then move this plugin.
-3. Go to 'Preferences -> Color Scheme -> RailscastsModified'
-
-## markdown
-![]()
-
-## ruby
-![]()
-
-## sass
-![]()
-
-## erb
-![]()
-
+1. Go to 'Preferences -> Browse Packages', and then either [DOWNLOAD](https://github.com/t4traw/sublime-railscasts-modified/archive/master.zip) and unzip this plugin into that directory
+2. 'Preferences -> Color Scheme -> sublime-railscasts-modified'
 
 # Copyright and License
 
@@ -31,4 +31,4 @@ This theme modified conspicuous from sublime-railscasts-extended. especially for
 - Copyright (c) 2014 Jev Zelenkov 
 - Copyright (c) 2008 Ryan Bates
 
-[LICENSE](https://github.com/t4traw/RailscastsModified/blob/master/LICENSE)
+[LICENSE](https://github.com/t4traw/sublime-railscasts-modified/blob/master/LICENSE)
