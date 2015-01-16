@@ -1,6 +1,11 @@
 # Railscasts Modified
 
-This theme modified conspicuous from sublime-railscasts-extended. especially for html source and erb source.
+This theme modified easy to read erb(html) source from [sublime-railscasts-extended](https://github.com/jzelenkov/sublime-railscasts-extended).
+
+## change list
+
+- Change all #ffffff to #e6e1dc.
+- Comment more hiding
 
 # Installation
 
