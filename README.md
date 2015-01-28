@@ -2,11 +2,6 @@
 
 This theme modified easy to read erb(html) source from [sublime-railscasts-extended](https://github.com/jzelenkov/sublime-railscasts-extended).
 
-## change list
-
-- Change all #ffffff to #e6e1dc.
-- Comment more hiding
-
 # Installation
 
 1. Go to 'Preferences -> Browse Packages', and then either download and unzip this plugin into that directory
