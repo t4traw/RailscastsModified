@@ -1885,6 +1885,17 @@
 				<string>#e6e1dc</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>JS: Function Arguments</string>
+			<key>scope</key>
+			<string>variable.parameter</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#6E9CBE</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
 	<string>103C646A-D70E-4FAD-93AE-40FF39126E84</string>
